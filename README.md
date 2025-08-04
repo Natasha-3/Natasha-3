@@ -11,8 +11,8 @@
 
 ## Мои проекты
 - [Разведочный анализ продаж банка Muamalat](https://github.com/Natasha-3/Bank_Muamalat_sales)
-- [Работа программиста в России и Узбекистане: сравнение зарплат и валютных рисков](https://github.com/Natasha-3/Analytics/tree/main/Work_in_Uzbekistan)
-- [Анализ шоколадных батончиков](https://github.com/Natasha-3/Analytics/tree/main/Chocolate)
+- [Работа программиста в России и Узбекистане: сравнение зарплат и валютных рисков](https://github.com/Natasha-3/Work_in_Uzbekistan)
+- [Анализ шоколадных батончиков](https://github.com/Natasha-3/Chocolate)
 
 ## Моя цель
 Помощь в развитии бизнеса. Среди моих знакомых есть несколько предпринимателей, они полны идей и энергии, но увы, многое делают по наитию. 
